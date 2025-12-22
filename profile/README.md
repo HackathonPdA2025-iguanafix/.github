@@ -1,13 +1,28 @@
 ## EQUIPE 2 
-Hackathon IGUANAFIX E Programadores do amanhã
+---
 
-Nosso deploy https://iguanafix.onrender.com
+<div align="center">
 
-# 🏆 Projeto Vencedor: IguanaFix -1º Lugar no Hackathon PdA 2025
+🏆 **Projeto Vencedor — IguanaFix**  
+ #  🥇1º Lugar no Hackathon PdA 2025**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/ad4830aa-76cb-4deb-a203-8dde006936d4" height="60" />
+&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/ff77b25a-b552-4262-84b1-e1f557e110ab" height="60" />
+
+</div>
+
+---
+
+
+
 
 ## 🌟 Visão Geral do Projeto
 
 Este projeto representa a nossa conquista do **2º lugar** no Hackathon promovido pela **Programadores do Amanhã** em parceria com a **MadeiraMadeira**, focado no desafio proposto pela **IguanaFix**. Em apenas 48 horas, demonstramos a força da colaboração e da inovação para resolver um problema de negócio crítico.
+## Nosso deploy: https://iguanafix.onrender.com
 
 ---
 
@@ -29,7 +44,7 @@ Implementamos um **Assistente Virtual (Chatbot)** que guia o profissional passo 
 
 O sucesso deste projeto é integralmente atribuído à sinergia e dedicação deste time multidisciplinar. Cada membro foi fundamental para transformar a ideia em uma solução funcional e vencedora.
 
-| Membro | Função Principal | Contribuição Chave | AAA |
+| Membro | Função Principal | Contribuição Chave | Membros |
 | --- | --- | --- | --- |
 | **[Seu Nome/Usuário]** | Designer (Protótipo e Estratégia) | Liderança na prototipagem do wireframe, definição do guia de estilo (paleta de cores e tipografia) e estruturação do briefing estratégico. | <img width="582" height="582" alt="image" src="https://github.com/user-attachments/assets/1eed2586-2961-4121-807a-65f14a91113a" /> |
 | **Samuel Ribeiro Loiola** | Líder de Projeto | Visão analítica, liderança constante e gestão eficiente do tempo sob pressão. | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/17dbee2f-1fea-430c-b8a4-f4134f5b52ea" /> |
