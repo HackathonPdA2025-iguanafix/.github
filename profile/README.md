@@ -16,8 +16,18 @@
 
 ---
 
+## 🤝 O SQUAD 02: A Força da Colaboração
 
+O sucesso deste projeto é integralmente atribuído à sinergia e dedicação deste time multidisciplinar. Cada membro foi fundamental para transformar a ideia em uma solução funcional e vencedora.
 
+| Membro | Função Principal | Contribuição Chave | Membros |
+| --- | --- | --- | --- |
+| **[Seu Nome/Usuário]** | Designer (Protótipo e Estratégia) | Liderança na prototipagem do wireframe, definição do guia de estilo (paleta de cores e tipografia) e estruturação do briefing estratégico. | <img width="582" height="582" alt="image" src="https://github.com/user-attachments/assets/1eed2586-2961-4121-807a-65f14a91113a" /> |
+| **Samuel Ribeiro Loiola** | Líder de Projeto | Visão analítica, liderança constante e gestão eficiente do tempo sob pressão. | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/17dbee2f-1fea-430c-b8a4-f4134f5b52ea" /> |
+| **Débora Vitória** | Designer (UI/UX) | Aplicação de técnicas de prototipagem de interfaces com foco em usabilidade, UI moderno e design elegante. | <img width="533" height="800" alt="image" src="https://github.com/user-attachments/assets/2c46de0d-63b0-448d-aefb-b43a38757142" /> |
+| **Ingrid Oliveira** | Desenvolvedora Full Stack | Contribuição exemplar no desenvolvimento da solução, integração com API e implementação do front-end. | <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f7835ae1-0aee-4d2a-bb7a-5890e2552937" /> |
+| **Grazielle Nascimento** | Desenvolvedora Back-end | Solidez técnica e domínio na construção da base de dados e da lógica de negócio da solução integração com IA e implementação do front-end. . | <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2da50f34-c8c9-4858-a9aa-2af52081cd61" />
+ |
 
 ## 🌟 Visão Geral do Projeto
 
@@ -40,18 +50,7 @@ Implementamos um **Assistente Virtual (Chatbot)** que guia o profissional passo 
 
 ---
 
-## 🤝 O SQUAD 02: A Força da Colaboração
 
-O sucesso deste projeto é integralmente atribuído à sinergia e dedicação deste time multidisciplinar. Cada membro foi fundamental para transformar a ideia em uma solução funcional e vencedora.
-
-| Membro | Função Principal | Contribuição Chave | Membros |
-| --- | --- | --- | --- |
-| **[Seu Nome/Usuário]** | Designer (Protótipo e Estratégia) | Liderança na prototipagem do wireframe, definição do guia de estilo (paleta de cores e tipografia) e estruturação do briefing estratégico. | <img width="582" height="582" alt="image" src="https://github.com/user-attachments/assets/1eed2586-2961-4121-807a-65f14a91113a" /> |
-| **Samuel Ribeiro Loiola** | Líder de Projeto | Visão analítica, liderança constante e gestão eficiente do tempo sob pressão. | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/17dbee2f-1fea-430c-b8a4-f4134f5b52ea" /> |
-| **Débora Vitória** | Designer (UI/UX) | Aplicação de técnicas de prototipagem de interfaces com foco em usabilidade, UI moderno e design elegante. | <img width="533" height="800" alt="image" src="https://github.com/user-attachments/assets/2c46de0d-63b0-448d-aefb-b43a38757142" /> |
-| **Ingrid Oliveira** | Desenvolvedora Full Stack | Contribuição exemplar no desenvolvimento da solução, integração com API e implementação do front-end. | <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f7835ae1-0aee-4d2a-bb7a-5890e2552937" /> |
-| **Grazielle Nascimento** | Desenvolvedora Back-end | Solidez técnica e domínio na construção da base de dados e da lógica de negócio da solução integração com IA e implementação do front-end. . | <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2da50f34-c8c9-4858-a9aa-2af52081cd61" />
- |
 
 **Agradecimento Especial:** Nosso profundo agradecimento ao mentor **Henrique Ricardo Figueira**, cujas provocações e dicas foram essenciais para simplificar o complexo e manter o foco na experiência do cliente final.
 
