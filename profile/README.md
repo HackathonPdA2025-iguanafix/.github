@@ -31,7 +31,7 @@ O sucesso deste projeto é integralmente atribuído à sinergia e dedicação de
 
 ## 🌟 Visão Geral do Projeto
 
-Este projeto representa a nossa conquista do **2º lugar** no Hackathon promovido pela **Programadores do Amanhã** em parceria com a **MadeiraMadeira**, focado no desafio proposto pela **IguanaFix**. Em apenas 48 horas, demonstramos a força da colaboração e da inovação para resolver um problema de negócio crítico.
+Este projeto representa a nossa conquista do **1º lugar** no Hackathon promovido pela **Programadores do Amanhã** em parceria com a **MadeiraMadeira**, focado no desafio proposto pela **IguanaFix**. Em apenas 48 horas, demonstramos a força da colaboração e da inovação para resolver um problema de negócio crítico.
 ## Nosso deploy: https://iguanafix.onrender.com
 
 ---
